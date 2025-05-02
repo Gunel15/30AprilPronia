@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\V&V\\source\\repos\\30AprilClassTaskPronia\\30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj": {}
+    "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\V&V\\source\\repos\\30AprilClassTaskPronia\\30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj": {
+    "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\V&V\\source\\repos\\30AprilClassTaskPronia\\30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj",
+        "projectUniqueName": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj",
         "projectName": "30AprilClassTaskPronia",
-        "projectPath": "C:\\Users\\V&V\\source\\repos\\30AprilClassTaskPronia\\30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj",
-        "packagesPath": "C:\\Users\\V&V\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\V&V\\source\\repos\\30AprilClassTaskPronia\\30AprilClassTaskPronia\\obj\\",
+        "projectPath": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj",
+        "packagesPath": "C:\\Users\\l novbe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\V&V\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\l novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,12 +44,22 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[8.0.7, )"
@@ -74,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
