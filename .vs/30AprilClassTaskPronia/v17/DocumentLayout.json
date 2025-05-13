@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|c:\\users\\l novbe\\desktop\\clones\\30aprilpronia\\30aprilclasstaskpronia\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|solutionrelative:30aprilclasstaskpronia\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|c:\\users\\l novbe\\desktop\\clones\\30aprilpronia\\30aprilclasstaskpronia\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|solutionrelative:30aprilclasstaskpronia\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|c:\\users\\l novbe\\desktop\\clones\\30aprilpronia\\30aprilclasstaskpronia\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|solutionrelative:30aprilclasstaskpronia\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|c:\\users\\l novbe\\desktop\\clones\\30aprilpronia\\30aprilclasstaskpronia\\viewmodels\\sliders\\slidergetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|solutionrelative:30aprilclasstaskpronia\\viewmodels\\sliders\\slidergetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|c:\\users\\l novbe\\desktop\\clones\\30aprilpronia\\30aprilclasstaskpronia\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|solutionrelative:30aprilclasstaskpronia\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|c:\\users\\l novbe\\desktop\\clones\\30aprilpronia\\30aprilclasstaskpronia\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|solutionrelative:30aprilclasstaskpronia\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|c:\\users\\l novbe\\desktop\\clones\\30aprilpronia\\30aprilclasstaskpronia\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|solutionrelative:30aprilclasstaskpronia\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|c:\\users\\l novbe\\desktop\\clones\\30aprilpronia\\30aprilclasstaskpronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,24 +35,12 @@
       "RelativeMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|solutionrelative:30aprilclasstaskpronia\\contexts\\pronianewdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|c:\\users\\l novbe\\desktop\\clones\\30aprilpronia\\30aprilclasstaskpronia\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|solutionrelative:30aprilclasstaskpronia\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|c:\\users\\l novbe\\desktop\\clones\\30aprilpronia\\30aprilclasstaskpronia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|solutionrelative:30aprilclasstaskpronia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|c:\\users\\l novbe\\desktop\\clones\\30aprilpronia\\30aprilclasstaskpronia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|solutionrelative:30aprilclasstaskpronia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|c:\\users\\l novbe\\desktop\\clones\\30aprilpronia\\30aprilclasstaskpronia\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|solutionrelative:30aprilclasstaskpronia\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|c:\\users\\l novbe\\desktop\\clones\\30aprilpronia\\30aprilclasstaskpronia\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|solutionrelative:30aprilclasstaskpronia\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|c:\\users\\l novbe\\desktop\\clones\\30aprilpronia\\30aprilclasstaskpronia\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -85,10 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|c:\\users\\l novbe\\desktop\\clones\\30aprilpronia\\30aprilclasstaskpronia\\viewmodels\\services\\servicegetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|solutionrelative:30aprilclasstaskpronia\\viewmodels\\services\\servicegetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|c:\\users\\l novbe\\desktop\\clones\\30aprilpronia\\30aprilclasstaskpronia\\viewmodels\\sliders\\slidergetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|solutionrelative:30aprilclasstaskpronia\\viewmodels\\sliders\\slidergetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53067DD8-94D0-4E4C-8B4D-5F9803063B66}|30AprilClassTaskPronia\\30AprilClassTaskPronia.csproj|c:\\users\\l novbe\\desktop\\clones\\30aprilpronia\\30aprilclasstaskpronia\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -194,69 +194,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "30AprilClassTaskPronia\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "30AprilClassTaskPronia\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T09:31:47.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "30AprilClassTaskPronia\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "30AprilClassTaskPronia\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T09:31:13.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginVM.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\ViewModels\\Account\\LoginVM.cs",
-              "RelativeDocumentMoniker": "30AprilClassTaskPronia\\ViewModels\\Account\\LoginVM.cs",
-              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\ViewModels\\Account\\LoginVM.cs",
-              "RelativeToolTip": "30AprilClassTaskPronia\\ViewModels\\Account\\LoginVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T09:27:36.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RegisterVM.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\ViewModels\\Account\\RegisterVM.cs",
-              "RelativeDocumentMoniker": "30AprilClassTaskPronia\\ViewModels\\Account\\RegisterVM.cs",
-              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\ViewModels\\Account\\RegisterVM.cs",
-              "RelativeToolTip": "30AprilClassTaskPronia\\ViewModels\\Account\\RegisterVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T09:27:25.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "30AprilClassTaskPronia\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Controllers\\AccountController.cs",
               "RelativeToolTip": "30AprilClassTaskPronia\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowEoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T09:25:35.485Z",
               "EditorCaption": ""
@@ -264,32 +212,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Models\\User.cs",
-              "RelativeDocumentMoniker": "30AprilClassTaskPronia\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Models\\User.cs",
-              "RelativeToolTip": "30AprilClassTaskPronia\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T09:24:06.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomeVM.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\ViewModels\\HomeVM.cs",
-              "RelativeDocumentMoniker": "30AprilClassTaskPronia\\ViewModels\\HomeVM.cs",
-              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\ViewModels\\HomeVM.cs",
-              "RelativeToolTip": "30AprilClassTaskPronia\\ViewModels\\HomeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T08:37:17.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "30AprilClassTaskPronia\\Views\\Home\\Index.cshtml",
@@ -297,12 +219,11 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T11:33:09.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T11:33:09.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "30AprilClassTaskPronia\\Views\\Shared\\_Layout.cshtml",
@@ -310,12 +231,11 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYEAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T11:46:14.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T11:46:14.684Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Program.cs",
               "RelativeDocumentMoniker": "30AprilClassTaskPronia\\Program.cs",
@@ -323,12 +243,11 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAxwB8AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T12:00:52.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T12:00:52.077Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ProniaNewDbContext.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Contexts\\ProniaNewDbContext.cs",
               "RelativeDocumentMoniker": "30AprilClassTaskPronia\\Contexts\\ProniaNewDbContext.cs",
@@ -336,12 +255,11 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\Contexts\\ProniaNewDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T08:59:35.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T08:59:35.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "30AprilClassTaskPronia\\Controllers\\HomeController.cs",
@@ -349,12 +267,11 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAADwvysAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T11:32:26.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T11:32:26.673Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "CategoryCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\ViewModels\\categories\\CategoryCreateVM.cs",
               "RelativeDocumentMoniker": "30AprilClassTaskPronia\\ViewModels\\categories\\CategoryCreateVM.cs",
@@ -362,12 +279,11 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\ViewModels\\categories\\CategoryCreateVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T08:23:00.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T08:23:00.233Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "30AprilClassTaskPronia\\Areas\\Admin\\Views\\Category\\Create.cshtml",
@@ -375,103 +291,11 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-12T08:47:25.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T08:47:25.555Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "30AprilClassTaskPronia\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "30AprilClassTaskPronia\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-12T08:41:54.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Areas\\Admin\\Views\\Category\\Update.cshtml",
-              "RelativeDocumentMoniker": "30AprilClassTaskPronia\\Areas\\Admin\\Views\\Category\\Update.cshtml",
-              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Areas\\Admin\\Views\\Category\\Update.cshtml",
-              "RelativeToolTip": "30AprilClassTaskPronia\\Areas\\Admin\\Views\\Category\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-12T08:57:49.436Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CategoryGetVM.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\ViewModels\\categories\\CategoryGetVM.cs",
-              "RelativeDocumentMoniker": "30AprilClassTaskPronia\\ViewModels\\categories\\CategoryGetVM.cs",
-              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\ViewModels\\categories\\CategoryGetVM.cs",
-              "RelativeToolTip": "30AprilClassTaskPronia\\ViewModels\\categories\\CategoryGetVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T08:17:05.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CategoryUpdateVM.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\ViewModels\\categories\\CategoryUpdateVM.cs",
-              "RelativeDocumentMoniker": "30AprilClassTaskPronia\\ViewModels\\categories\\CategoryUpdateVM.cs",
-              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\ViewModels\\categories\\CategoryUpdateVM.cs",
-              "RelativeToolTip": "30AprilClassTaskPronia\\ViewModels\\categories\\CategoryUpdateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T08:50:16.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "30AprilClassTaskPronia\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "30AprilClassTaskPronia\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAwwBAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T07:47:27.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "30AprilClassTaskPronia\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "30AprilClassTaskPronia\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T07:48:26.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ServiceGetVM.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\ViewModels\\services\\ServiceGetVM.cs",
-              "RelativeDocumentMoniker": "30AprilClassTaskPronia\\ViewModels\\services\\ServiceGetVM.cs",
-              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\ViewModels\\services\\ServiceGetVM.cs",
-              "RelativeToolTip": "30AprilClassTaskPronia\\ViewModels\\services\\ServiceGetVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T08:32:45.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 2,
               "Title": "SliderGetVM.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\ViewModels\\sliders\\SliderGetVM.cs",
               "RelativeDocumentMoniker": "30AprilClassTaskPronia\\ViewModels\\sliders\\SliderGetVM.cs",
@@ -484,6 +308,166 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "30AprilClassTaskPronia\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "30AprilClassTaskPronia\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T09:31:13.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "30AprilClassTaskPronia\\ViewModels\\Account\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeToolTip": "30AprilClassTaskPronia\\ViewModels\\Account\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:27:25.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "30AprilClassTaskPronia\\ViewModels\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeToolTip": "30AprilClassTaskPronia\\ViewModels\\Account\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:27:36.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "30AprilClassTaskPronia\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "30AprilClassTaskPronia\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T09:31:47.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "30AprilClassTaskPronia\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "30AprilClassTaskPronia\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T08:37:17.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Models\\User.cs",
+              "RelativeDocumentMoniker": "30AprilClassTaskPronia\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Models\\User.cs",
+              "RelativeToolTip": "30AprilClassTaskPronia\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:24:06.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "30AprilClassTaskPronia\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "30AprilClassTaskPronia\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T08:41:54.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "30AprilClassTaskPronia\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "30AprilClassTaskPronia\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T08:57:49.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryGetVM.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\ViewModels\\categories\\CategoryGetVM.cs",
+              "RelativeDocumentMoniker": "30AprilClassTaskPronia\\ViewModels\\categories\\CategoryGetVM.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\ViewModels\\categories\\CategoryGetVM.cs",
+              "RelativeToolTip": "30AprilClassTaskPronia\\ViewModels\\categories\\CategoryGetVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:17:05.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\ViewModels\\categories\\CategoryUpdateVM.cs",
+              "RelativeDocumentMoniker": "30AprilClassTaskPronia\\ViewModels\\categories\\CategoryUpdateVM.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\ViewModels\\categories\\CategoryUpdateVM.cs",
+              "RelativeToolTip": "30AprilClassTaskPronia\\ViewModels\\categories\\CategoryUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:50:16.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "30AprilClassTaskPronia\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "30AprilClassTaskPronia\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwBAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:47:27.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "30AprilClassTaskPronia\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "30AprilClassTaskPronia\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:48:26.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServiceGetVM.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\ViewModels\\services\\ServiceGetVM.cs",
+              "RelativeDocumentMoniker": "30AprilClassTaskPronia\\ViewModels\\services\\ServiceGetVM.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\ViewModels\\services\\ServiceGetVM.cs",
+              "RelativeToolTip": "30AprilClassTaskPronia\\ViewModels\\services\\ServiceGetVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T08:32:45.224Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 22,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Clones\\30AprilPronia\\30AprilClassTaskPronia\\Models\\Service.cs",
@@ -492,8 +476,7 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\Models\\Service.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T08:35:02.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T08:35:02.648Z"
             },
             {
               "$type": "Document",
@@ -505,8 +488,7 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\Models\\Slider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T08:02:21.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T08:02:21.451Z"
             },
             {
               "$type": "Document",
@@ -518,8 +500,7 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\Areas\\Admin\\Views\\Service\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-02T09:20:22.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T09:20:22.86Z"
             },
             {
               "$type": "Document",
@@ -531,8 +512,7 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\Migrations\\20250512090528_CreatedCategoriesTable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T09:05:28.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T09:05:28.592Z"
             },
             {
               "$type": "Document",
@@ -544,8 +524,7 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-12T08:06:22.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T08:06:22.138Z"
             },
             {
               "$type": "Document",
@@ -557,8 +536,7 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\Migrations\\20250513082715_CreatedSlidersTable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T08:27:15.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T08:27:15.149Z"
             },
             {
               "$type": "Document",
@@ -570,8 +548,7 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\Migrations\\20250502081641_createdservicestable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T08:16:41.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T08:16:41.65Z"
             },
             {
               "$type": "Document",
@@ -583,8 +560,7 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\Areas\\Admin\\Controllers\\ServiceController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T09:21:32.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T09:21:32.449Z"
             },
             {
               "$type": "Document",
@@ -596,8 +572,7 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\Areas\\Admin\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T07:56:02.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T07:56:02.982Z"
             },
             {
               "$type": "Document",
@@ -609,8 +584,7 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T12:04:36.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T12:04:36.312Z"
             },
             {
               "$type": "Document",
@@ -633,8 +607,7 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\Models\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T07:53:42.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T07:53:42.39Z"
             },
             {
               "$type": "Document",
@@ -646,8 +619,7 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T07:48:02.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T07:48:02.062Z"
             },
             {
               "$type": "Document",
@@ -659,8 +631,7 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T09:35:42.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T09:35:42.065Z"
             },
             {
               "$type": "Document",
@@ -672,8 +643,7 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\Areas\\Admin\\Views\\Service\\Index.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAIBJwAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-02T09:20:00.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T09:20:00.512Z"
             },
             {
               "$type": "Document",
@@ -685,8 +655,7 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T12:22:18.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T12:22:18.947Z"
             },
             {
               "$type": "Document",
@@ -698,8 +667,7 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAFEAAAAAAAAAAIBJwHMAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T09:26:53.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T09:26:53.844Z"
             },
             {
               "$type": "Document",
@@ -711,8 +679,7 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-02T09:25:44.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T09:25:44.793Z"
             },
             {
               "$type": "Document",
@@ -724,8 +691,7 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\Controllers\\BlogController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T11:45:04.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T11:45:04.249Z"
             },
             {
               "$type": "Document",
@@ -737,8 +703,7 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\Controllers\\ShopController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T11:44:03.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T11:44:03.547Z"
             },
             {
               "$type": "Document",
@@ -750,8 +715,7 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T07:56:23.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T07:56:23.43Z"
             },
             {
               "$type": "Document",
@@ -763,8 +727,7 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\Views\\Blog\\Index.cshtml",
               "ViewState": "AgIAAOUBAAAAAAAAACBjwPgBAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T11:45:19.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T11:45:19.356Z"
             },
             {
               "$type": "Document",
@@ -776,8 +739,7 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\Views\\Shop\\Index.cshtml",
               "ViewState": "AgIAADMJAAAAAAAAACBjwEMJAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T11:44:31.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T11:44:31.796Z"
             },
             {
               "$type": "Document",
@@ -789,8 +751,7 @@
               "RelativeToolTip": "30AprilClassTaskPronia\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T11:47:05.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T11:47:05.609Z"
             }
           ]
         }
